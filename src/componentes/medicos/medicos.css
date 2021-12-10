@@ -1,0 +1,43 @@
+.cuadrosmedicos {
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cuadrosmedicos img {
+    width: 96%;
+}
+
+.contenedor-item {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #5CA28A;
+    height: 4px;
+}
+
+.up {
+    margin-top: -30px;
+}
+
+.down {
+    margin-top: 0px;
+}
+
+@media screen and (max-width: 960px) {
+    .up {
+        margin: 0px;
+    }
+}

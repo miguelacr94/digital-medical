@@ -1,0 +1,20 @@
+[
+    {
+        "nombre":"Inicio",
+        "ruta":"",
+        "id":"inicio-selection"
+    },
+    {
+        "nombre":"Nosotros",
+        "ruta":"",
+        "id":"nosotros-selection"
+    }, {
+        "nombre":"Servicios",
+        "ruta":"",
+        "id":"services-section"
+    }, {
+        "nombre":"Contacto",
+        "ruta":"",
+        "id":"contacto-selection"
+    }
+]

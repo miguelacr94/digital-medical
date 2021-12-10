@@ -1,0 +1,23 @@
+[
+    {
+        "nombre":"Michael Scofield",
+        "foto":"/imges/Img.png",
+        "clase":"up"
+          
+    },
+    {
+        "nombre":"Michael Scofield",
+        "foto":"../../imges/Img@.png",
+        "clase":"down"
+    },
+    {
+        "nombre":"Michael Scofield",
+        "foto":"../../imges/Img@.png",
+        "clase":"up"
+    },
+    {
+        "nombre":"Michael Scofield",
+        "foto":"../../imges/Img.png",
+        "clase":"down"
+    }
+]

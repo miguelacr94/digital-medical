@@ -1,0 +1,9 @@
+.contenedor-derechos {
+    background-color: #5CA28A;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

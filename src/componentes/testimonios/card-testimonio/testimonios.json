@@ -1,0 +1,21 @@
+[
+    {
+        "nombre_paciente":"Frank Gallaghers",
+        "perfil":"Paciente",
+        "testimonio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "foto": "../../imges/paciente1.png"
+    },
+    {
+        "nombre_paciente":"Frank Gallaghers",
+        "perfil":"Paciente",
+        "testimonio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "foto": "../../imges/paciente2.png"
+    },
+    {
+        "nombre_paciente":"Frank Gallaghers",
+        "perfil":"Paciente",
+        "testimonio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "foto": "../../imges/paciente3.png"
+    }
+    
+]

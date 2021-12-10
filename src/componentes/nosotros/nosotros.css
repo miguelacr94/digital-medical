@@ -1,0 +1,24 @@
+.span1 {
+    float: left;
+    background-size: 150px 150px;
+    position: absolute;
+    background-color: #ffe4c400;
+    width: 150px;
+    height: 150px;
+}
+
+.hero-btns {
+    margin-top: 32px;
+    width: 100%;
+}
+
+.hero-btns .btn {
+    margin: 6px;
+    background-color: #5CA28A;
+    color: #fff;
+    font-size: 10px;
+}
+
+.top {
+    margin-top: 50px;
+}

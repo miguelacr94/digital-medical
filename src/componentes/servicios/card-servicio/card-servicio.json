@@ -1,0 +1,22 @@
+[
+    {
+        "imagen":"/imges/servicio1.png",
+        "servicio":"DIGITAL X-RAY",
+        "clase":"up"
+    },
+    {
+        "imagen":"/imges/servicio2.png",
+        "servicio":"MRI MAGNETIC RESONANCE",
+        "clase":"down"
+    },
+    {
+        "imagen":"/imges/servicio3.png",
+        "servicio":"ESQUELETICO",
+        "clase":"up"
+    },
+    {
+        "imagen":"/imges/servicio4.png",
+        "servicio":"GINECOLOGIA O PELVICA",
+        "clase":"down"
+    }
+]

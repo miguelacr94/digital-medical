@@ -1,0 +1,16 @@
+[
+    {
+        "foto":"../../imges/galeria1.png"
+    },
+    {
+        "foto":"/../imges/galeria2.png"
+    },  {
+        "foto":"../../imges/galeria3.png"
+    },  {
+        "foto":"../../imges/galeria4.png"
+    },  {
+        "foto":"../../imges/galeria1.png"
+    },  {
+        "foto":"../../imges/galeria3.png"
+    }
+]

@@ -1,0 +1,109 @@
+.servicios {
+    width: 100%
+}
+
+.al-lef {
+    float: left;
+    width: 65%;
+    text-align: left;
+}
+
+.encabezado .servicio {
+    text-align: center;
+}
+
+.top {
+    margin-top: 60px;
+}
+
+li {
+    margin-top: -14px;
+    font-size: 10px;
+    color: var(--unnamed-color-284761);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #284761;
+    opacity: 1;
+    position: relative;
+    left: -10px;
+}
+
+li .informacion {
+    margin-left: -10px;
+    font-size: 15px;
+}
+
+ul {
+    padding-left: 1em
+}
+
+li {
+    padding-left: 1em
+}
+
+.item-services {
+    width: 80%;
+    float: left;
+}
+
+.cuadro-servicio {
+    width: calc(90%/2);
+    height: 220px;
+    margin: 10px;
+    float: left;
+    background: var(--unnamed-color-5ca28a) 0% 0% no-repeat padding-box;
+    background: #5CA28A 0% 0% no-repeat padding-box;
+    box-shadow: 0px 20px 40px #0000000F;
+    border: 1px solid #F1F1F1;
+    border-radius: 8px;
+    opacity: 1;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cuadro-servicio p {
+    text-align: center;
+    float: left;
+}
+
+.up {
+    margin-top: -30px;
+}
+
+.down {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 960px) {
+    .up {
+        margin-top: 0px;
+    }
+    .down {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .cuadro-servicio {
+        width: 175px;
+        height: 180px;
+        margin: 5px;
+    }
+}
+
+.imagen-servicio {
+    width: 60%;
+    height: 69%;
+    background-size: 98% 76%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.imagen-servicio img {
+    width: 98%;
+    height: 100%;
+    margin-top: 2px;
+}
